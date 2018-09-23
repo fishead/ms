@@ -1,7 +1,7 @@
 # ms
 Ported from https://github.com/zeit/ms
 
-[![Build Status](https://travis-ci.org/fishead/ms.svg?branch=master)](https://travis-ci.org/fishead/ms)
+[![CircleCI](https://circleci.com/gh/fishead/ms.svg?style=svg)](https://circleci.com/gh/fishead/ms)
 
 Use this package to easily convert various time formats to milliseconds.
 
